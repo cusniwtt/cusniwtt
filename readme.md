@@ -5,10 +5,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@cusniwtt-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/cusniwtt "Follow on Twitter")
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cusniwtt?tab=repositories) 
 
-<img src="https://github.com/cusniwtt/cusniwtt/blob/main/daimook.png" align="right" width="25%"/>
-
 ## About me
 I am a 3rd year student in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
+
+<img src="https://github.com/cusniwtt/cusniwtt/blob/main/daimook.png" align="right" width="25%"/>
 
 **Interest in:**
 - ⚙ Data Engineer
@@ -19,7 +19,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
 - 🔭 I'm a data engineer intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand
 
 ## ⚒️ Languages and Tools ⚒️
-<p align="center">
+<p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -138,12 +138,8 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusniwtt&theme=github_dark)
 
-<a href="#">
-  <img align="left" src="![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github_dark)" />
-</a>
-<a href="#">  
-  <img align="center" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github_dark)" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github_dark)
 
 ⭐ From [cusniwtt](https://github.com/cusniwtt)
