@@ -7,6 +7,7 @@
 
 <img src="https://github.com/cusniwtt/cusniwtt/blob/main/daimook.png" align="right" width="25%"/>
 
+## About me
 I am a 3rd year student in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
 
 **Interest in:**
@@ -17,7 +18,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
 **Career path:**
 - 🔭 I'm a data engineer intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand
 
-<h3 align="center">⚒️ Languages and Tools ⚒️</h3>
+## ⚒️ Languages and Tools ⚒️
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
@@ -133,7 +134,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
   </a>
 </p>
 
-<h3 align="center">📊 Stats 📊</h3>
+## 📊 Stats 📊
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusniwtt&theme=github_dark)
 
@@ -141,7 +142,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
   <img align="left" src="![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github_dark)" />
 </a>
 <a href="#">  
-  <img align="center" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github_dark)" /
+  <img align="center" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github_dark)" />
 </a>
 
 
