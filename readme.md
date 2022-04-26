@@ -18,7 +18,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
 - 🔭 I'm a data engineer intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand
 
 <h3 align="center">⚒️ Languages and Tools ⚒️</h3>
-<p align="left">
+<p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
