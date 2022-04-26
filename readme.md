@@ -145,4 +145,11 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github_dark)
 
+<a href="#">
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tussanakorn&theme=dracula" />
+</a>
+<a href="#">  
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tussanakorn&theme=dracula" />
+</a>
+
 ⭐ From [cusniwtt](https://github.com/cusniwtt)
