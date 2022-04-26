@@ -3,8 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-windywayu2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:windywayu2000@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-wayu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wayu-ragwongsiri-943535226/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@cusniwtt-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/cusniwtt "Follow on Twitter")
-[![DEV Badge](https://img.shields.io/badge/-cusniwtt-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://www.qwiklabs.com/public_profiles/fc013acc-4dd1-4d6d-96e0-4a112c537d4b)
 [![StackOverflow Badge](https://img.shields.io/badge/-cusniwtt-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/18169809/cusniwtt)
+[![DEV Badge](https://img.shields.io/badge/-cusniwtt-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://www.qwiklabs.com/public_profiles/fc013acc-4dd1-4d6d-96e0-4a112c537d4b)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cusniwtt?tab=repositories) 
 ![Profile Views](https://komarev.com/ghpvc/?username=cusniwtt&color=blue)
 
