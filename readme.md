@@ -17,7 +17,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
 **Career path:**
 - 🔭 I'm a data engineer intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand
 
-<h3 align="left">🌱 Languages and Tools:</h3>
+<h3 align="center">⚒️ Languages and Tools ⚒️</h3>
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
@@ -35,22 +35,6 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
       height="40"
     />
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -59,30 +43,10 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
       height="40"
     />
   </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-      alt="opencv"
       width="40"
       height="40"
     />
@@ -103,6 +67,14 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
       height="40"
     />
   </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://colab.research.google.com/img/colab_favicon_256px.png"
+      alt="colab"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -115,6 +87,14 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
       alt="scikit_learn"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://keras.io/img/logo.png"
+      alt="keras"
       width="40"
       height="40"
     />
