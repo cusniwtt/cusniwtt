@@ -9,6 +9,12 @@
 
 I am a 3rd year student in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
 
+**Interest in:**
+- ⚙ Data Engineer
+- 💻 Machine Learning
+- ☁️ Cloud Computing
+
+**Career path:**
 - 🔭 I'm a data engineer intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand
 
 ⭐ From [cusniwtt](https://github.com/cusniwtt)
