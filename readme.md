@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/cusniwtt/cusniwtt/blob/main/daimook.png" align="right" width="25%"/>
 
 I am a 3rd year student in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
 
