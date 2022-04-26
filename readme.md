@@ -21,7 +21,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
 **Career path:**
 - 🔭 I'm a data engineer intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand
 
-## ⚒️ Languages and Tools ⚒️
+## Languages and Tools
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img
@@ -136,8 +136,6 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
     />
   </a>
 </p>
-
-## 📊 Stats 📊
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusniwtt&theme=github)
 
