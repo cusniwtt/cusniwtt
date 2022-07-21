@@ -99,7 +99,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
     <img
       src="https://keras.io/img/logo.png"
       alt="keras"
-      width="40"
+      width="80"
       height="40"
     />
   </a>
@@ -131,7 +131,7 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
     <img
       src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png"
       alt="tableau"
-      width="40"
+      width="80"
       height="40"
     />
   </a>
