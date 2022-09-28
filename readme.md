@@ -100,7 +100,7 @@ I am a 4rd year student in Health Data Science at Princess Srisavangavadhana Col
     <img
       src="https://keras.io/img/logo.png"
       alt="keras"
-      width="80"
+      width="100"
       height="40"
     />
   </a>
@@ -133,6 +133,18 @@ I am a 4rd year student in Health Data Science at Princess Srisavangavadhana Col
       src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png"
       alt="tableau"
       width="80"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://selenium-python.readthedocs.io"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://selenium-python.readthedocs.io/_static/logo.png"
+      alt="tableau"
+      width="40"
       height="40"
     />
   </a>
