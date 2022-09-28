@@ -19,8 +19,8 @@ I am a 3rd year student in Health Data Science at Princess Srisavangavadhana Col
 - ☁️ Cloud Computing
 
 **Career path:**
-- 🔭 I'm a data engineer & IT Administrator intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand. [Nov 2021 - Present]
-- 🏥 I'm a data analysis intern at [rama.mahidol](https://www.rama.mahidol.ac.th) in Bangkok, Thailand. [June - July 2022]
+- 🔭 I'm a Data Engineer & IT Administrator intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand. [Nov 2021 - Present]
+- 🏥 I'm a Data Analysis intern at [rama.mahidol](https://www.rama.mahidol.ac.th) in Bangkok, Thailand. [June - July 2022]
 
 ## Languages and Tools
 <p align="left">
