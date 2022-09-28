@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cusniwtt&color=blue)
 
 ## About me
-I am a 3rd year student in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
+I am a 4rd year student in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
 
 <img src="https://github.com/cusniwtt/cusniwtt/blob/main/daimook.png" align="right" width="20%"/>
 
