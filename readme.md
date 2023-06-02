@@ -9,14 +9,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cusniwtt&color=blue)
 
 ## About me
-I am a 4rd year student in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
+Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
 
 <img src="https://github.com/cusniwtt/cusniwtt/blob/main/daimook.png" align="right" width="20%"/>
 
 **Interest in:**
-- ⚙ Data Engineer
+- 🛠️ Data Engineer
 - 💻 Machine Learning
 - ☁️ Cloud Computing
+- 🎛️ High Performance Computing
 
 **Career path:**
 - 🔭 I'm a Data Engineer & IT Administrator intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand. [Nov 2021 - Present]
@@ -55,35 +56,26 @@ I am a 4rd year student in Health Data Science at Princess Srisavangavadhana Col
       width="40"
       height="40"
     />
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"
+      alt="mysql"
+      width="53"
+      height="40"
+    />
+  </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
       alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"
-      alt="R"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://colab.research.google.com/img/colab_favicon_256px.png"
-      alt="colab"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
       width="40"
       height="40"
     />
@@ -96,69 +88,31 @@ I am a 4rd year student in Health Data Science at Princess Srisavangavadhana Col
       height="40"
     />
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img
-      src="https://keras.io/img/logo.png"
-      alt="keras"
-      width="100"
-      height="40"
-    />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-      alt="seaborn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://powerbi.microsoft.com/en-us/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"
-      alt="powerBI"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.tableau.com/about/media-download-center"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png"
-      alt="tableau"
-      width="80"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://selenium-python.readthedocs.io"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://selenium-python.readthedocs.io/_static/logo.png"
-      alt="tableau"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"
+      alt="tensorflow"
       width="40"
       height="40"
     />
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusniwtt&theme=github)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusniwtt&theme=github" alt="GitHub Profile Summary Card" style="width: 100%;">
 
-<a href="#">
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github" />
-</a>
-<a href="#">  
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github" />
-</a>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="width: 50%;">
+    <a href="#">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github" style="width: 100%;" />
+    </a>
+  </div>
+  <div style="width: 50%;">
+    <a href="#">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github" style="width: 100%;" />
+    </a>
+  </div>
+</div>
 
 ----
 
-⭐ From [cusniwtt](https://github.com/cusniwtt)
+🧑🏻‍💻 From [cusniwtt](https://github.com/cusniwtt)
