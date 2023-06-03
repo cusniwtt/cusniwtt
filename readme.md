@@ -11,8 +11,6 @@
 ## About me
 Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
 
-<img src="https://github.com/cusniwtt/cusniwtt/blob/main/daimook.png" align="right" width="20%"/>
-
 **Interest in:**
 - 🛠️ Data Engineer
 - 💻 Machine Learning
