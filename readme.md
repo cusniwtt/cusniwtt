@@ -98,11 +98,10 @@ Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhor
   </a>
 </p>
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2xd5unyl39ohruj8e5lqb411r&count={3})
-
+---
+## Other stuff
 ![spotify recently](https://spotify-recently-played-readme.vercel.app/api?user=2xd5unyl39ohruj8e5lqb411r)
 
-----
+---
 
 🧑🏻‍💻 From [cusniwtt](https://github.com/cusniwtt)
