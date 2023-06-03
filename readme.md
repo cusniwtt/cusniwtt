@@ -103,12 +103,12 @@ Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhor
 <div style="display: flex; flex-wrap: wrap;">
   <div style="width: 50%;">
     <a href="#">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github" style="width: 100%;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github" style="width: 50%;" />
     </a>
   </div>
   <div style="width: 50%;">
     <a href="#">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github" style="width: 100%;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github" style="width: 50%;" />
     </a>
   </div>
 </div>
