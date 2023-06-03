@@ -98,20 +98,24 @@ Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhor
   </a>
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusniwtt&theme=github" alt="GitHub Profile Summary Card" style="width: 100%;">
-
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="width: 50%;">
+  <div style="width: 33.33%;">
     <a href="#">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github" style="width: 50%;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusniwtt&theme=github" alt="GitHub Profile Summary Card" style="width: 100%;">
     </a>
   </div>
-  <div style="width: 50%;">
+  <div style="width: 33.33%;">
     <a href="#">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github" style="width: 50%;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cusniwtt&theme=github" style="width: 100%;">
+    </a>
+  </div>
+  <div style="width: 33.33%;">
+    <a href="#">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cusniwtt&theme=github" style="width: 100%;">
     </a>
   </div>
 </div>
+
 
 ----
 
