@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=cusniwtt&color=blue)
 
 ## About me
-Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi
+Studied in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy with Computer Engineering department, Faculty of Engineering, King Mongkut's University of Technology Thonburi.
 
 **Interest in:**
 - 🛠️ Data Engineer
@@ -18,6 +18,7 @@ Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhor
 - 🎛️ High Performance Computing
 
 **Career path:**
+- 🧑🏻‍💻 I'm a Data Engineer at [ETDA](https://www.etda.or.th) in Bangkok, Thailand. [July 2023 - Present]
 - 🔭 I'm a Data Engineer & IT Administrator intern at [@thaissf](https://www.thaissf.org/) in Bangkok, Thailand. [Nov 2021 - Present]
 - 🏥 I'm a Data Analysis intern at [rama.mahidol](https://www.rama.mahidol.ac.th) in Bangkok, Thailand. [June - July 2022]
 
