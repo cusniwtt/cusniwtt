@@ -1,4 +1,4 @@
-<h1 align="center">📸 Hi! I'm Wayu Ragwongsiri 🐳</h1>
+# 📸 Hi! I'm Wayu Ragwongsiri 🐳
 
 [![Gmail Badge](https://img.shields.io/badge/-windywayu2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:windywayu2000@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-wayu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wayu-ragwongsiri-943535226/ "Connect on LinkedIn")
