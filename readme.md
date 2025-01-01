@@ -36,5 +36,6 @@ Studied in Health Data Science at Princess Srisavangavadhana College of Medicine
 - Infrastructure: Docker/Podman, Terraform *(studying)*
 - Visualization: Power BI, Tableau, Apache Superset, Metabase
 
+[Cheat Sheet](./markdown/README.md)
 
 🧑🏻‍💻 From [cusniwtt](https://github.com/cusniwtt)
